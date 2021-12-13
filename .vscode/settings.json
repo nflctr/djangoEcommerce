@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 12,
+  "window.zoomLevel": 0,
+  "terminal.integrated.fontSize": 12,
+  "workbench.colorTheme": "Noctis Azureus",
+  "editor.minimap.enabled": false,
+  "python.languageServer": "Pylance",
+  "python.pythonPath": "C:\\Users\\Lenovo\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+}
